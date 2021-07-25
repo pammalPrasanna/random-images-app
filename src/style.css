@@ -1,0 +1,9 @@
+body {
+  font-family: system-ui;
+  background: #000033;
+  color: white;
+  text-align: center;
+}
+.title {
+  font-size: 48px;
+}
